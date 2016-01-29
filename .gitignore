@@ -16,4 +16,7 @@
 !/log/.keep
 /tmp
 
+# Ignore Spring files.
+/spring/*.pid
+
 /vendor/bundle
