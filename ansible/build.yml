@@ -1,0 +1,4 @@
+- hosts: dev
+  gather_facts: no
+  roles:
+    - { role: dotfiles, tags: dotfiles }

@@ -1,0 +1,5 @@
+[dev]
+dev
+
+[dev:vars]
+target='centos'
