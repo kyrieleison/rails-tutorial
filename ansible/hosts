@@ -1,5 +1,5 @@
 [dev]
-dev
+rails-tutorial
 
 [dev:vars]
 target='centos'
